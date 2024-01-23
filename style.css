@@ -21,6 +21,7 @@ html{
 }
 .main{
     overflow: hidden;
+    background-color: #242424;
 }
 
 .sideMenu{
