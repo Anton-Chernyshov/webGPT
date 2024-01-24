@@ -16,8 +16,12 @@ html{
     font-size: 50px;
     transition: 0.3s;
 }
+
 .header:hover{
     color: #A8A8A8;
+}
+.subheader{
+    font-size: 20px;
 }
 .main{
     overflow: hidden;
