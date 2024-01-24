@@ -50,7 +50,10 @@ html{
 .sideMenu .exitBtn{
     position: absolute;
     top: 0;
-    right: 25px;
+    right: 10px;
     font-size: 30px;
-    margin-left: 50px;
+    margin-left: 10px;
+}
+.sideMenu a:active{
+    color: #868686;
 }

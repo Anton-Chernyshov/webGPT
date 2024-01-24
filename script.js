@@ -5,7 +5,7 @@ function closeSideMenu(){
 
 function openSideMenu(){
 
-    document.getElementById("sideMenu").style.width = "250px";
+    document.getElementById("sideMenu").style.width = "260px";
 
 }
 
