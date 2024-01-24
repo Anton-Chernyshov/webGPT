@@ -9,3 +9,6 @@ function openSideMenu(){
 
 }
 
+function gpt(){
+    document.getElementById("gptanswer").value() = fetch("/api/user"); 
+}
