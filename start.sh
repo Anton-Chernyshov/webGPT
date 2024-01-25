@@ -1,0 +1,1 @@
+npx nodemon /home/pi/webGPT/backend/index.js
