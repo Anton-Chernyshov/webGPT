@@ -1,5 +1,5 @@
 import Openai, { OpenAI } from "openai";
-const key = "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"
+const key = ""
 const openai = new OpenAI({
     apiKey : key,})
 
